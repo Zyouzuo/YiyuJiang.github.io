@@ -1,46 +1,13 @@
 # YiyuJiang.github.io
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<link rel="shortcut icon" href="./imgs/myIcon.jpg">
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="Yiyu Jiang, Jiang Yiyu,Hohai University">
-<meta name="description" content="Yiyu Jiang's home page">
-<link rel="stylesheet" href="./css/jemdoc.css" type="text/css" />
-<title>Yiyu Jiang,Hohai University</title>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-99569700-1', 'auto');
-  ga('send', 'pageview');
+	<h1>Yiyu Jiang &nbsp <h1>
+	</div>
 
-</script>
-</head>
-<body >
-
-
-
-<table>
-	<tbody>
-		<tr>
-			<td width="670">
-				<div id="toptitle">
-					<h1>Yiyu Jiang &nbsp <h1>
-				</div>
-
-			  <p>
-					TEL: (86) 158-5067-1217</br>
+	<p>
+	TEL: (86) 158-5067-1217</br>
        E-mail: Kayjiang@hotmail.com </br>
        Objective: Research Student </br>
-          </br>
-			</td>
-		</tr>
-	</tbody> 
-</table>
+        </br>
 
 
 <h2>EDUCATION </h2>
