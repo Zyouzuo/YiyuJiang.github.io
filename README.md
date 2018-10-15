@@ -1,7 +1,4 @@
-# YiyuJiang.github.io
-
 <h1>Yiyu Jiang &nbsp </h1>
-
 
 <p>
 TEL: (86) 158-5067-1217</br>
