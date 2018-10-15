@@ -1,13 +1,13 @@
 # YiyuJiang.github.io
 
-	<h1>Yiyu Jiang &nbsp <h1>
-	</div>
+<h1>Yiyu Jiang &nbsp </h1>
 
-	<p>
-	TEL: (86) 158-5067-1217</br>
-       E-mail: Kayjiang@hotmail.com </br>
-       Objective: Research Student </br>
-        </br>
+
+<p>
+TEL: (86) 158-5067-1217</br>
+E-mail: Kayjiang@hotmail.com </br>
+Objective: Research Student </br>
+</br>
 
 
 <h2>EDUCATION </h2>
