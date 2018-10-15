@@ -5,8 +5,7 @@ TEL: (86) 158-5067-1217</br>
 E-mail: Kayjiang@hotmail.com </br>
 Objective: Research Student </br>
 </br>
-sidebar: true                        
-sidebar-avatar:234.JPG 
+(https://github.com/Zyouzuo/YiyuJiang.github.io/blob/master/234.jpg)
 
 <h2>EDUCATION </h2>
 
