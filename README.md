@@ -11,7 +11,7 @@ Objective: Research Student </br>
 
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="100%" color=#00000 SIZE=2>
 
-<h3>Hohai University<div style="float:right;">Nanjing, China</div></h3>    
+<h3>Hohai University<right>Nanjing, China</right></h3>    
 <ul>
 <em>Bachelor of Management in Construction Management<div style="float:right;">Expected June. 2019</div></em>
 <li><a><b>GPA: </b>4.05/ 5.0, 85/ 100
@@ -25,7 +25,7 @@ Objective: Research Student </br>
 <h2>WORK EXPERIENCE</h2>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="100%" color=#00000 SIZE=3> 
 
-<h3>Bain & Company<div style="float:right;">Shanghai, Chian</div></h3>
+<h3>Bain & Company<right>Shanghai, Chian<right></h3>
 <ul>
 <em>PTA for Associate Consultants<div style="float:right;">August. 2018 – Present</div></em>
 <li><a>Assisted literature researches, basic data processing, expert-related file compilation, and store visit
